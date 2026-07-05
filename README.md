@@ -37,23 +37,29 @@ With thousands of crowdfunding campaigns launched every year, understanding what
 
 ## 🔄 Project Workflow
 
-```text
-Raw Dataset (365,892 Records | 4 Related Tables)
-                ↓
-Data Preparation (Excel)
-    • Converted date fields into readable format
-    • Built a Calendar Table with 9 date attributes
-    • Created a relational data model
-    • Converted goal amounts to USD using static exchange rates
-                ↓
-Business Analysis (SQL)
-    • Performed business queries to analyze campaign performance
-                ↓
-Interactive Dashboard (Power BI + DAX)
-    • Built KPI measures and interactive visualizations
-                ↓
-Business Insights & Recommendations
-```
+**Raw Dataset** (365,892 Records | 4 Related Tables)
+
+⬇️
+
+**Data Preparation (Excel)**
+- Converted date fields into readable format
+- Built a Calendar Table with 9 date attributes
+- Created a relational data model
+- Converted goal amounts to USD using static exchange rates
+
+⬇️
+
+**Business Analysis (SQL)**
+- Performed business queries to analyze campaign performance
+
+⬇️
+
+**Interactive Dashboard (Power BI + DAX)**
+- Built KPI measures and interactive visualizations
+
+⬇️
+
+**Business Insights & Recommendations**
 
 ---
 
