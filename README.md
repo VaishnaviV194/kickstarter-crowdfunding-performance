@@ -49,11 +49,13 @@ With thousands of crowdfunding campaigns launched every year, understanding what
 
 ### Calendar Table
 
-![Calendar Table](images/excel_calendar_table.png)
+![Calendar Table](images/excel_cale<img width="1352" height="696" alt="Screenshot 2026-07-05 202139" src="https://github.com/user-attachments/assets/b0cc060e-93c5-4044-aa6c-b38277603967" />
+ndar_table.png)
 
 ### Data Model
 
-![Data Model](images/excel_data_model.png)
+![Data Model](images/excel_data_mo<img width="1728" height="783" alt="Screenshot 2026-07-05 202257" src="https://github.com/user-attachments/assets/d4c93d9d-592a-4241-876b-d1ecb9394c33" />
+del.png)
 
 ⬇️
 
