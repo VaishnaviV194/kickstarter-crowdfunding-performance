@@ -1,4 +1,4 @@
-# 🚀 Kickstarter Campaign Performance
+# 🚀 Kickstarter Campaign Performance Analysis
 
 A business intelligence project that explores Kickstarter crowdfunding campaigns using **Excel, SQL, and Power BI** to identify the factors influencing campaign success, funding trends, backer engagement, and category performance.
 
