@@ -19,7 +19,7 @@ With thousands of crowdfunding campaigns launched every year, understanding what
 
 | Tool | Purpose |
 |------|---------|
-| **Excel** | Data preparation, calendar table creation, data modeling, and currency conversion |
+| **Excel** | Data preparation, calendar table creation, data modeling |
 | **SQL (MySQL)** | Business analysis and query-based insights |
 | **Power BI + DAX** | Interactive dashboard, KPI measures, and data visualization |
 
@@ -46,6 +46,14 @@ With thousands of crowdfunding campaigns launched every year, understanding what
 - Built a Calendar Table with 9 date attributes
 - Created a relational data model
 - Converted goal amounts to USD using static exchange rates
+
+### Calendar Table
+
+![Calendar Table](images/excel_calendar_table.png)
+
+### Data Model
+
+![Data Model](images/excel_data_model.png)
 
 ⬇️
 
