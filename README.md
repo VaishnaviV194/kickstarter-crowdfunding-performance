@@ -47,16 +47,6 @@ With thousands of crowdfunding campaigns launched every year, understanding what
 - Created a relational data model
 - Converted goal amounts to USD using static exchange rates
 
-### Calendar Table
-
-![Calendar Table](images/excel_cale<img width="1352" height="696" alt="Screenshot 2026-07-05 202139" src="https://github.com/user-attachments/assets/b0cc060e-93c5-4044-aa6c-b38277603967" />
-ndar_table.png)
-
-### Data Model
-
-![Data Model](images/excel_data_mo<img width="1728" height="783" alt="Screenshot 2026-07-05 202257" src="https://github.com/user-attachments/assets/d4c93d9d-592a-4241-876b-d1ecb9394c33" />
-del.png)
-
 ⬇️
 
 **Business Analysis (SQL)**
@@ -70,6 +60,16 @@ del.png)
 ⬇️
 
 **Business Insights & Recommendations**
+
+---
+
+## 📅 Calendar Table
+
+<img width="1352" height="696" alt="Screenshot 2026-07-05 202139" src="https://github.com/user-attachments/assets/180b1cb2-81e7-49f5-a66f-5c7c710c94c2" />
+
+## 🔗 Data Model
+
+<img width="1728" height="783" alt="Screenshot 2026-07-05 202257" src="https://github.com/user-attachments/assets/67b6f8f9-f89d-4c35-9eca-1f96ca3e53db" />
 
 ---
 
